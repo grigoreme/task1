@@ -19,6 +19,4 @@ To delete experiment press "x" in same row with experiment you want to.
 
 
 Best Regards,
-Grigore MelecaHello,
-
-Please proceed to the following link to evaluate AngularJS task :slightly_smiling_face:
+Grigore Meleca
