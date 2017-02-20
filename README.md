@@ -1,6 +1,8 @@
 # task1
+Hello,<br/>
+Please proceed to the following link to evaluate AngularJS task <br/>
 
-I used http-server from nodejs to run this project.
+I used http-server from nodejs to run this project.<br/>
 
 How to run:<br/>
 1.Download & unzip<br/>
@@ -14,3 +16,9 @@ To add experiment press "Add new experiment" then complete the inputs and confir
 To edit experiment press "Edit" in same row with experiment you want to. You will get two imputs and press "Update Experiment", complete this and you'll get your experiment modified.
 
 To delete experiment press "x" in same row with experiment you want to.
+
+
+Best Regards,
+Grigore MelecaHello,
+
+Please proceed to the following link to evaluate AngularJS task :slightly_smiling_face:
