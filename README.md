@@ -2,12 +2,12 @@
 
 I used http-server from nodejs to run this project.
 
-How to run:
-1.Download & unzip
-2.Go to project folder
-3.Hold ALT + SHIFT and right click then select "open in terminal" or open command line and go to project path.
-4.Run server.js by using "node server"
-5.Go to http://localhost:8080
+How to run:<br/>
+1.Download & unzip<br/>
+2.Go to project folder<br/>
+3.Hold ALT + SHIFT and right click then select "open in terminal" or open command line and go to project path.<br/>
+4.Run server.js by using "node server"<br/>
+5.Go to http://localhost:8080<br/>
 
 To add experiment press "Add new experiment" then complete the inputs and confirm by pressing "Insert experiment".
 
