@@ -1,0 +1,29 @@
+
+<form  ng-submit="myExperiment.submit()" name="experiment" ng-controller="experimentAdd">
+
+  <div class="w3-col s9">
+    <input id="name" type="text" name="name" ng-model="myExperiment.name" style="width:100%" placeholder="Experiment's name here" minlength="5" required/>
+  </div>
+  <div style="margin-left:10px" class="w3-col s2">
+    <div ng-messages="experiment.name.$error">
+      <div ng-message="required">required</div>
+      <div ng-message="minlength">invalid length (min: 5)</div>
+    </div>
+  </div>
+
+
+  <div class="w3-col s9">
+    <textarea id="description" type="text" name="description" ng-model="myExperiment.description" style="width:100%" placeholder="Experiment's description here" minlength="15" required/></textarea>
+  </div>
+
+  <div style="margin-left:10px" class="w3-col s2">
+    <div ng-messages="experiment.description.$error">
+      <div ng-message="required">required</div>
+      <div ng-message="minlength">invalid length (min: 15)</div>
+    </div>
+  </div>
+
+  <div class="w3-col s9">
+    <button style="width:100%" class="w3-btn w3-padding w3-green">{{step}} Experiment</button>
+  </div>
+</form>
